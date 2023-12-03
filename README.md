@@ -1,2 +1,2 @@
-# OIBSIP-Level-1-Task-3
-Temperature Converter Website
+# temperature-converter-Website-using-html-css-JavaScript
+![temperature-converter-Website-using-html-css-JavaScript](img/github_cover.jpeg)
